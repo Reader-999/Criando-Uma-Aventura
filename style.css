@@ -2,4 +2,14 @@ body {
     background-color: rgba(81, 126, 24, 0.658);
     color:rgb(255, 255, 255);
     font-family: "Indie Flower", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 670px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(136, 160, 143);
+    color: rgb(33, 65, 32);
 }

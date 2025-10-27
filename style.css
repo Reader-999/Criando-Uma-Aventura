@@ -10,6 +10,7 @@ body {
 }
 
 button {
-    background-color: rgb(136, 160, 143);
-    color: rgb(33, 65, 32);
+    background-color: rgba(245, 255, 248, 0.904);
+    color: rgb(39, 104, 53);
+    font-family: "Indie Flower", sans-serif;
 }

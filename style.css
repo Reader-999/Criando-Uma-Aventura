@@ -14,3 +14,11 @@ button {
     color: rgb(39, 104, 53);
     font-family: "Indie Flower", sans-serif;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}

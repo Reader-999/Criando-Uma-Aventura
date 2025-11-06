@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(81, 126, 24, 0.658);
+    background-color: rgba(118, 180, 89, 0.89);
     color:rgb(255, 255, 255);
     font-family: "Indie Flower", cursive;
     display: flex;
@@ -10,8 +10,8 @@ body {
 }
 
 button {
-    background-color: rgba(245, 255, 248, 0.904);
-    color: rgb(39, 104, 53);
+    background-color: rgba(224, 244, 255, 0.904);
+    color:   rgba(68, 102, 52, 0.89);
     font-family: "Indie Flower", sans-serif;
 }
 
